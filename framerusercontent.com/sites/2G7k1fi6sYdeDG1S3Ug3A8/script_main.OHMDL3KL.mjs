@@ -1207,7 +1207,7 @@ var va = {
                                                             height: "100%",
                                                             id: "cBHa63Vc2",
                                                             KbstIbJCT: "Twitter",
-                                                            kL4n9pcb2: "https://x.com/PulzAI",
+                                                            kL4n9pcb2: "https://x.com/PulzAI_x",
                                                             layoutId: "cBHa63Vc2",
                                                             width: "100%"
                                                         })
@@ -3556,7 +3556,7 @@ var Wn = "framer-yU4km",
                                                                 className: "framer-vqypuk",
                                                                 "data-framer-name": "Social Icons",
                                                                 children: [e("a", {
-                                                                    href: "https://x.com/PulzAI",
+                                                                    href: "https://x.com/PulzAI_x",
                                                                     children: e(C, {
                                                                     children: e($, {
                                                                         className: "framer-1y8b4a6-container",
