@@ -1291,7 +1291,7 @@ var va = {
                                                             height: "100%",
                                                             id: "TXppuIsYA",
                                                             KbstIbJCT: "Etherscan",
-                                                            kL4n9pcb2: "https://etherscan.io/ethereum/0xcomingsoon",
+                                                            kL4n9pcb2: "https://etherscan.io/ethereum/0x920d77dbf88a69876aac07807eec1c8c30e0a20b",
                                                             layoutId: "TXppuIsYA",
                                                             width: "100%"
                                                         })
@@ -1315,7 +1315,7 @@ var va = {
                                                             height: "100%",
                                                             id: "Z07Peh9lz",
                                                             KbstIbJCT: "Dextools",
-                                                            kL4n9pcb2: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                                            kL4n9pcb2: "https://www.dextools.io/app/en/ether/pair-explorer/0x920d77dbf88a69876aac07807eec1c8c30e0a20b",
                                                             layoutId: "Z07Peh9lz",
                                                             width: "100%"
                                                         })
@@ -1339,7 +1339,7 @@ var va = {
                                                             height: "100%",
                                                             id: "GZne4DlWh",
                                                             KbstIbJCT: "Dexscreener",
-                                                            kL4n9pcb2: "https://dexscreener.com/ethereum/0xcomingsoon",
+                                                            kL4n9pcb2: "https://dexscreener.com/ethereum/0x920d77dbf88a69876aac07807eec1c8c30e0a20b",
                                                             layoutId: "GZne4DlWh",
                                                             width: "100%"
                                                         })
@@ -1363,7 +1363,7 @@ var va = {
                                                             height: "100%",
                                                             id: "GZne4DlWh",
                                                             KbstIbJCT: "Uniswap",
-                                                            kL4n9pcb2: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                                            kL4n9pcb2: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x920d77dbf88a69876aac07807eec1c8c30e0a20b",
                                                             layoutId: "GZne4DlWh",
                                                             width: "100%"
                                                         })
