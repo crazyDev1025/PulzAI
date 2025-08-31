@@ -1231,7 +1231,7 @@ var va = {
                                                             height: "100%",
                                                             id: "W3GyO6NcK",
                                                             KbstIbJCT: "Whitepaper",
-                                                            kL4n9pcb2: "https://getpulz.gitbook.io/getpulz-docs/",
+                                                            kL4n9pcb2: "http://docs.pulzai.org/",
                                                             layoutId: "W3GyO6NcK",
                                                             width: "100%"
                                                         })
@@ -2418,7 +2418,7 @@ var sn = {
                                             rendersWithMotion: !0,
                                             scopeId: "Xi3_GiSlr",
                                             children: e(Xe, {
-                                                dAO9NRdW3: "https://app.getpulz.io/",
+                                                dAO9NRdW3: "https://app.pulzai.org/",
                                                 E4ZE5r9cP: "DApps",
                                                 height: "100%",
                                                 id: "Y49pQBbdO",
